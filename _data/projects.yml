@@ -356,6 +356,7 @@ Gill:
   website: https://github.com/Iconictacoma/gill
   github: Iconictacoma/gill
   author: tacoma6267
+  discord: dHuwDv9XUs
   summary: >
     A work-in-progress general-purpose, procedural, imperative, functional systems language inspired by Rust and C3. Made as a solution to C++ memory safety.
   tags:
