@@ -359,9 +359,9 @@ Gill:
   summary: >
     A work-in-progress general-purpose, procedural, imperative, functional systems language inspired by Rust and C3. Made as a solution to C++ memory safety.
   tags:
-    - compiled
+    - compiler
     - functional
-    - systems
+    - multi-paradigm
 
 Gwion:
   website: https://gwion.github.io/Gwion/
